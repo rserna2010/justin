@@ -12,46 +12,23 @@ body { padding-top: 50px; }
 @media screen and (max-width: 768px) {
     body { padding-top: 0px; }
 }
-p {
-padding:0px 70px 0px 70px;
-background-color: white;
-color:black
-}
- 
-h1 {
-padding:30px 20px 0px 50px;
-color:black;
-/*background-color: #777*/
-}
-
-ul {
-    margin: 0;
-    padding: 0.2em;
-    padding-left: 50px;
-   	list-style-type
-} 
-
-h4 {
-	padding: 0px, 50px, 0px, 0px;
-
-}
-
-#pdf {
-  padding-left: 50px
-
-}
-
-#resume {
-	padding-left: 50px
-}
 
 .social-media-bottons {
+  padding: 30px 0px 0px 0px ; 
+  float: right; 
   margin-left:auto;
   margin-right:auto;
-  width:20%;
-  margin-bottom: 50px;
 }
 
+ul li {
+
+list-style: none;
+padding: 10px 10px 0px 0px ;
+}
+
+#imbd {
+padding-right: 2px
+}
 
 /* Special class on .container surrounding .navbar, used for positioning it into place. */
 .navbar-wrapper {
