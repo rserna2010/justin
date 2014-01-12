@@ -13,15 +13,21 @@ color:black
 h1 {
 padding:30px 70px 0px 70px;
 color:black;
-/*background-color: #777*/
+font-family:"Skia", Times, serif;
 } 
-/* GLOBAL STYLES
--------------------------------------------------- */
-/* Padding below the footer and lighter body text */
+
+h2 {
+font-family:"Skia", Times, serif;
+} 
 
 body {
   padding-bottom: 40px;
   color: #5a5a5a;
+  font-family:"Skia", Times, serif;
+}
+
+.navbar {
+  font-family:"Skia", Times, serif;
 }
 
 #links {

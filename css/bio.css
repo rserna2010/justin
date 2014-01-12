@@ -12,19 +12,24 @@ body { padding-top: 50px;
 p {
 padding:0px 70px 0px 70px;
 background-color: white;
-color:black
+color:black;
+font-family:"Skia", Times, serif;
 }
  
 h1 {
 padding:30px 70px 0px 70px;
 color:black;
 /*background-color: #777*/
+font-family:"Skia", Times, serif;
 } 
 
 footer {
   padding-top: 50px
 }
 
+.navbar {
+  font-family:"Skia", Times, serif;
+}
 
 .social-media-bottons {
   margin-left:auto;
@@ -41,6 +46,7 @@ footer {
   left: 0;
   right: 0;
   z-index: 20;
+
 }
 
 /* Flip around the padding for proper display in narrow viewports */

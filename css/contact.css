@@ -13,6 +13,10 @@ body { padding-top: 50px; }
     body { padding-top: 0px; }
 }
 
+.navbar {
+  font-family:"Skia", Times, serif;
+}
+
 .social-media-bottons {
   padding: 30px 70px 0px 0px ; 
   float: right; 

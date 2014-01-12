@@ -1,5 +1,4 @@
 html { 
-  background: url('../images/JW071B.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -12,16 +11,18 @@ body { padding-top: 50px; }
 @media screen and (max-width: 768px) {
     body { padding-top: 0px; }
 }
+
 p {
 padding:0px 70px 0px 70px;
 background-color: white;
-color:black
+color:black;
+
 }
  
 h1 {
 padding:30px 20px 0px 50px;
 color:black;
-/*background-color: #777*/
+font-family:"Skia", Times, serif;
 }
 
 ul {
@@ -36,13 +37,19 @@ h4 {
 
 }
 
+.navbar {
+  font-family:"Skia", Times, serif;
+}
+
 #pdf {
   padding-left: 50px
 
 }
 
 #resume {
-	padding-left: 50px
+  width: 820px;
+  margin-left: auto ;
+  margin-right: auto ;
 }
 
 .social-media-bottons {
