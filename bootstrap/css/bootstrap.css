@@ -119,6 +119,10 @@ sup {
   vertical-align: baseline;
 }
 
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+  background-color: #222222;
+}
+
 sup {
   top: -0.5em;
 }
@@ -4319,6 +4323,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar {
   position: relative;
   min-height: 50px;
+  max-height: 50px;
   margin-bottom: 20px;
   border: 1px solid transparent;
 }
