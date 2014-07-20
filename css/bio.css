@@ -13,14 +13,14 @@ p {
 padding:0px 70px 0px 70px;
 background-color: white;
 color:black;
-font-family:"Skia", Times, serif;
+font-family:"Georgia", Times, serif;
 }
  
 h1 {
 padding:30px 70px 0px 70px;
 color:black;
 /*background-color: #777*/
-font-family:"Skia", Times, serif;
+font-family:"Georgia", Times, serif;
 } 
 
 footer {
@@ -28,7 +28,7 @@ footer {
 }
 
 .navbar {
-  font-family:"Skia", Times, serif;
+  font-family:"Georgia", Times, serif;
 }
 
 .social-media-bottons {
